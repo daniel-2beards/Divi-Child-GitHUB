@@ -1,0 +1,14 @@
+.updated.woocommerce-message, .notice.wcs-nux__notice {
+	display:none!important;
+	visibility: hidden!important;
+}
+.wp-admin select {
+    height: unset!important;
+}
+.hide_if_variable-subscription fieldset{
+	widt:100%;
+}
+.variable_pricing p{
+	width:100%;
+	overflow: hidden;
+}
